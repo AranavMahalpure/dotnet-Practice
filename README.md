@@ -8,7 +8,7 @@ Hello World program
 Readonly and Constant
 Type casting (Implicit and Explicit)
 
-C# Learning - Day 2
+C# Learning - Day 2  (ravindra devrani)
 Date: 30/3/2024
 
 Today, I continued my C# learning journey with the following topics:
